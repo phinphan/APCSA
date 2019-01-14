@@ -1,16 +1,19 @@
-
 package Chapter05;
+
 import java.util.Scanner;
+
 /**
  * program determines things about an integer
+ *
  * @author jp1016251
  */
 public class C5_1 {
-  /**
-   * main method
-   * @param args command line arguments
-   */
 
+    /**
+     * main method
+     *
+     * @param args command line arguments
+     */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter an integer, the input ends if is is 0: ");
@@ -44,4 +47,3 @@ public class C5_1 {
         System.out.println("The average is " + (total / count));
     }
 }
-

@@ -1,13 +1,17 @@
-
 package Chapter05;
+
 import java.util.Scanner;
+
 /**
  * program takes votes
+ *
  * @author jp1016251
  */
 public class P5 {
+
     /**
      * main method
+     *
      * @param args command line arguments
      */
     public static void main(String[] args) {
