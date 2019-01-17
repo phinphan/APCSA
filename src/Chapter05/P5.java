@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * program takes votes
  *
- * @author jp1016251
+ * @author Joshua Plato
  */
 public class P5 {
 

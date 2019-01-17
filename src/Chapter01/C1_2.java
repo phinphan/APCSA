@@ -1,9 +1,14 @@
 package Chapter01;
 
+/**
+ * program adds 1 - 9 together
+ *
+ * @author Joshua Plato
+ */
 public class C1_2 {
 
     /**
-     * program adds 1 - 9 together
+     * Main method
      *
      * @param args command line arguments
      */
