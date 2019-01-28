@@ -3,9 +3,9 @@ package Chapter06;
 import java.util.Scanner;
 
 /**
- * program program convert currency
+ * program convert currency
  *
- * @author jp1016251
+ * @author Joshua Plato
  */
 public class P6 {
 
@@ -51,6 +51,13 @@ public class P6 {
 
     }
 
+    /**
+     * currency converter
+     *
+     * @param dollars the amount of dollars we are converting
+     * @param exchangeRate the currency we are converting
+     * @return the amount of dollars the currency is equivalent to
+     */
     public static double convert(double dollars, double exchangeRate) {
         if (dollars > 100) {
             return 0.95 * dollars * exchangeRate;

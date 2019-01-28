@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * program determines things about an integer
  *
- * @author jp1016251
+ * @author Joshua Plato
  */
 public class C5_1 {
 

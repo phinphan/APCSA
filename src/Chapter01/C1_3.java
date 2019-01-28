@@ -1,9 +1,14 @@
 package Chapter01;
 
+/**
+ * program finds the area and perimeter of an entered number
+ *
+ * @author Joshua Plato
+ */
 public class C1_3 {
 
     /**
-     * program gets the area and perimeter of an entered number
+     * Main method
      *
      * @param args command line arguments
      */

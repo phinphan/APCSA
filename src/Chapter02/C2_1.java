@@ -7,7 +7,7 @@ import java.util.Scanner;
  *
  * @author Joshua plato
  */
-class C2_1 {
+public class C2_1 {
 
     /**
      * main method

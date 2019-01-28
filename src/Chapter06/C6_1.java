@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * program tests passwords
  *
- * @author jp1016251
+ * @author Joshua Plato
  */
 public class C6_1 {
 
@@ -22,6 +22,12 @@ public class C6_1 {
         System.out.println(isValid(password) ? "Valid Password" : "Invalid Password");
     }
 
+    /**
+     * password checker
+     *
+     * @param password a password we are testing
+     * @return a usable password
+     */
     public static boolean isValid(String password) {
         // Atleast 8 characters
         if (password.length() < 8) {
